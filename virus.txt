@@ -1,0 +1,9 @@
+scary isp
+print("Hello world")
+
+passwords are here
+
+scary virus and ip
+
+i love hot dogs
+nothing malicious here!
